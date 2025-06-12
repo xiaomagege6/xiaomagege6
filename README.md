@@ -16,11 +16,15 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://tgmeng.com"><img src="https://img.shields.io/badge/Twitter-个人主页-blue" /></a>&emsp;
-    <!--  <a href="https://www.tgmeng.com/@sun0225SUN"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;-->
-    <a href="https://mp.tgmeng.com"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;    
-    <a href="https://blog.tgmeng.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <a href="https://xiaomagege.com"><img src="https://img.shields.io/badge/Web-个人主页-8600FF" /></a>&emsp;
+    <a href="https://bbs.xiaomagege.com"><img src="https://img.shields.io/badge/BBS-论坛-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/395446863/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=6e8i13be-ce4a-466d-8517-f3f9d197c796"><img src="https://img.shields.io/badge/FeiShu-飞书交流群-316CF7" /></a>&emsp;
+    <a href="https://mp.xiaomagege.com"><img src="https://img.shields.io/badge/WeChat-微信-03C860" /></a>
+    
+    &emsp;    
+    <a href="https://blog.tgmeng.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=xiaomagege6&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
