@@ -21,10 +21,6 @@
     <a href="https://space.bilibili.com/395446863/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=6e8i13be-ce4a-466d-8517-f3f9d197c796"><img src="https://img.shields.io/badge/FeiShu-飞书交流群-316CF7" /></a>&emsp;
     <a href="https://mp.xiaomagege.com"><img src="https://img.shields.io/badge/WeChat-微信-03C860" /></a>
-    
-    &emsp;    
-    <a href="https://blog.tgmeng.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-    
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=xiaomagege6&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
