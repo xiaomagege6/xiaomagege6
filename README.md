@@ -2,7 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小马同学祝您今天愉快！&center=true&size=27)](https://xiaomagege.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);小马哥哥祝您今天愉快！&center=true&size=27)](https://xiaomagege.com)
 
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
