@@ -67,7 +67,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=xiaomagege6&theme=dark&hide_border=true" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=xiaomagege6&theme=light&hide_border=true" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=xiaomagege6&theme=dark&hide_border=true" />
     </picture>
 <!--     <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/xiaomagege6/jsdelivr/github/image/right.png" /> -->
   </div>
@@ -89,9 +89,9 @@
 
 <!-- ########################################## 分割 ########################################## -->
 <div align="center" >
-  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+  <img width="200%" src="https://cdn.jsdelivr.net/gh/xiaomagege6/jsdelivr/github/gif/hr.gif" />
   <!-- just img 图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/mb.png" width="250" height="250" />
+  <img src="https://cdn.jsdelivr.net/gh/xiaomagege6/jsdelivr/github/image/mb.png" width="250" height="250" />
   
   <!-- GitHub 奖杯🏆 -->
   <div><img src="https://github-profile-trophy.vercel.app/?username=xiaomagege6&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
@@ -125,9 +125,9 @@
 
 <!-- ########################################## 分割 ########################################## -->
 <div align="center" >
-  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+  <img width="200%" src="https://cdn.jsdelivr.net/gh/xiaomagege6/jsdelivr/github/gif/hr.gif" />
   <!-- just img 图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
+  <img src="https://cdn.jsdelivr.net/gh/xiaomagege6/jsdelivr/github/image/man.png" width="250" height="250" />
   
   <!--  skill badge 技能徽章 -->
   
@@ -195,5 +195,5 @@
 <!-- ########################################## 分割 ########################################## -->
 <div align="center" >
   <!-- just img 图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+  <img src="https://cdn.jsdelivr.net/gh/xiaomagege6/jsdelivr/github/image/icon.png" /></div>
 </div>
