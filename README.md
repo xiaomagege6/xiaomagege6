@@ -22,7 +22,7 @@
     <a href="https://blog.tgmeng.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <a href="https://space.bilibili.com/395446863/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor -->
-    <!-- <img src="https://komarev.com/ghpvc/?username=xiaomagege6&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;-->
+    <img src="https://komarev.com/ghpvc/?username=xiaomagege6&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
   <!-- ``Snake Code Contribution Map`` 贪吃蛇代码贡献图 -->
@@ -119,7 +119,7 @@
   </a>
 
   <!-- websitecounterfree -->
-  <div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=9&id=59277&s=1' border='0' alt='Free Website Counter'></a><br / ><small><a href='https://www.websitecounterfree.com' title="Free Website Counter"></a></small></div>
+  <!-- <div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=9&id=59277&s=1' border='0' alt='Free Website Counter'></a><br / ><small><a href='https://www.websitecounterfree.com' title="Free Website Counter"></a></small></div>-->
 
 </div>
 
